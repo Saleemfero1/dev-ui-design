@@ -1,5 +1,8 @@
 {
-  "name": "dev-ui-design",
+  "name": "@Saleemfero1/dev-ui-design",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/Saleemfero1"
+  },
   "version": "1.0.0",
   "description": "dev-ui-design provides customizable react components to our micro-frontend ui's",
   "scripts": {
